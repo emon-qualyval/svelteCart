@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Youth Marketing Strategy",
+        "des":"For more details and how to get involved with YMS, our non-profit/educational discounts or just to say hello, please drop us a line. We would love to chat. ymsfestival@voxburner.com",
+        "price":"660",
+        "img":"a64b345016e96adfb8849af5521c8e0ecfe8f027-555x555.webp"
+    },
+    {
+        "id":2,
+        "name":"earphones_a_1",
+        "des":"We are delighted to be organising a Year 7 residential at Grosvenor Hall in Kent. There will be an exciting programme of adventure activities to get involved in, and we expect this to support Year 7 in their transition to Fortismere. Please pay the deposit via Eventbrite.",
+        "price":"500",
+        "img":"earphones_a_1.webp"
+    },
+    {
+        "id":3,
+        "name":"earphones_a_2",
+        "des":"Prepare yourself for a musical feast in the majestic, glistening, gilded setting of The Grand Temple at Freemasons' Hall, in the heart of Covent Garden. Sit back and relax as the joys of Vivaldi's exuberant 'Four Seasons' are brought to you by a group of London's finest musicians.",
+        "price":"450",
+        "img":"earphones_a_2.webp"
+    },
+    {
+        "id":4,
+        "name":"earphones_a_3",
+        "des":"musical feast in the majestic, glistening, gilded setting of The Grand Temple at Freemasons' Hall, in the heart of Covent Garden. Sit back and relax as the joys of Vivaldi's exuberant 'Four Seasons' are brought to you by a group of London's finest musicians.",
+        "price":"550",
+        "img":"earphones_a_3.webp"
+    },
+    {
+        "id":5,
+        "name":"earphones_a_4",
+        "des":"Prepare yourself for a musical feast in the majestic, glistening, gilded setting of The Grand Temple at Freemasons' Hall, in the heart of Covent Garden. Sit back and relax as the joys of Vivaldi's exuberant 'Four Seasons' are brought to you by a group of London's finest musicians.",
+        "price":"502",
+        "img":"earphones_a_4.webp"
+    },
+    {
+        "id":6,
+        "name":"earphones_a_5",
+        "des":"glistening, gilded setting of The Grand Temple at Freemasons' Hall, in the heart of Covent Garden. Sit back and relax as the joys of Vivaldi's exuberant 'Four Seasons' are brought to you by a group of London's finest musicians.",
+        "price":"600",
+        "img":"earphones_b_1.webp"
+    }
+]
