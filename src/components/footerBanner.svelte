@@ -1,5 +1,4 @@
 <script>
-	import Image from '../image/94d76fd5d7f731d193299c41861c13a5fdb37dd9-376x242.png';
 </script>
 
 <div class="footer-banner-container">
@@ -20,7 +19,7 @@
       </div>
 
       <img 
-        src={Image} alt="Headphone" class="footer-banner-image"
+        src="/image/94d76fd5d7f731d193299c41861c13a5fdb37dd9-376x242.png" alt="Headphone" class="footer-banner-image"
       />
     </div>
   </div>
